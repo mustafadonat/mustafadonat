@@ -1,4 +1,4 @@
-![snake gif](https://github.com/mustafadonat/mustafadonat/compare/output?expand=1)
+![snake gif](https://github.com/mustafadonat/mustafadonat/blop/output/github-contribution-grid-snake.gif)
 <h1 align="center">Hi 👋, I'm Mustafa DONAT</h1>
 <h3 align="center">Full-Stack Automation Engineer</h3>
 
