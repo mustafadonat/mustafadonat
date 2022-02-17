@@ -1,4 +1,6 @@
 ![snake gif](https://github.com/mustafadonat/mustafadonat/blob/output/github-contribution-grid-snake.gif)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nilgunaydin&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=8B24DD&fire=6700FF&sideLabels=AC1DCB&ring=8910DD&sideNums=9E1EF7&currStreakLabel=AC1DCB&currStreakNum=8910DD)](https://git.io/streak-stats)
+
 <h1 align="center">Hi! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40">  I'm Mustafa DONAT</h1>
 <h3 align="center">Full-Stack Automation Engineer</h3>
 
